@@ -34,6 +34,7 @@ This project explores the contributing factors to employee attrition using real-
 2. Open the notebook in Jupyter.
 3. Run all cells to see the analysis results.
 4. View exported results in Excel.
+
 *Notes: the original coding files are included for reference but do not need to be run.*
 
 ### Next Steps
