@@ -21,16 +21,11 @@ This project explores the contributing factors to employee attrition using real-
 
 ### Folders & Files
 - `DataAnalysis.ipynb`: Full notebook with documentation and code
-- `main.py`: Running all python files 
-- `functions.py`: Contains all functions used 
-- `variables.py`: Define all variables 
 - `Cleaned_Employee_Data.xlsx`: The original dataset within cleaned version in separate tabs 
-- `analysis`: Contains all individual analysis, including reliability, correlation, regression, and moderation analysis 
-- `output`: All outputs from analysis, including Excel file and images
 - `online_references`: All original resources adopated from Kaggle
 
 ### How to Use
-1. Download the dataset [here](./Cleaned_Employee_Data.xlsx) and place it in the same folder as the notebook.
+1. Download the dataset [here](Cleaned_Employee_Data.xlsx) and place it in the same folder as the notebook.
 2. Open the notebook in Jupyter.
 3. Run all cells to see the analysis results.
 4. View exported results in Excel.
